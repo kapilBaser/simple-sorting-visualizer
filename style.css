@@ -9,5 +9,7 @@
   box-sizing:border-box;
 }
 .bar{
-
+  background-color: rgb(43, 42, 42);
+  margin: 0px 12px;
+  width:6px;
 }
