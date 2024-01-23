@@ -7,3 +7,7 @@ function generateArray(){
         arr[i] = Math.floor(Math.random()*300)+10;
 }
 
+function generateBars(){
+    
+}
+
