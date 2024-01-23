@@ -34,7 +34,7 @@ async function selectionSort(delay = 300) {
         await new Promise((resolve) =>
             setTimeout(() => {
                 resolve();
-            }, speed)
+            }, 500)
 
         );
 
@@ -59,7 +59,7 @@ async function selectionSort(delay = 300) {
                 await new Promise((resolve) =>
                     setTimeout(() => {
                         resolve();
-                    }, speed)
+                    }, 500)
 
                 );
 
