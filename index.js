@@ -48,7 +48,7 @@ async function selectionSort(delay = 300) {
             await new Promise((resolve) =>
                 setTimeout(() => {
                     resolve();
-                }, speed)
+                }, 500)
 
             );
             if (arr[i] > arr[j]) {
@@ -83,7 +83,7 @@ async function selectionSort(delay = 300) {
             await new Promise((resolve) =>
                 setTimeout(() => {
                     resolve();
-                }, speed)
+                }, 500)
 
             );
         } // for loop end
